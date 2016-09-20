@@ -1,2 +1,3 @@
 Hi, Oz!
-Makeing some changes.
+Making some changes.
+There was a typo.
